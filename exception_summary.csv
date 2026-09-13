@@ -1,0 +1,6 @@
+exception_type,count
+Blocked Invoice,0
+Payment Blocked,60762
+Zero/Negative Amount,0
+Potentially Overdue,60770
+Duplicate Invoice Reference,41
